@@ -19,3 +19,8 @@ This repository contains a Python program that demonstrates socket programming. 
 5. Follow the prompts in the client program to send and receive messages to and from the server.
 
 This program demonstrates the basics of socket programming using Python. You can modify and build on this program to create your own custom client-server communication solution.
+
+## Dependencies:
+
+- Python 3.x
+- Built-in socket module
