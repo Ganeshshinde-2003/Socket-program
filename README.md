@@ -5,7 +5,7 @@ This repository contains a Python program that demonstrates socket programming. 
 
 1. Clone the repository to your local machine using the following command:
 
-          `git clone https://github.com/yourusername/socket-program.git`
+          https://github.com/Ganeshshinde-2003/Socket-program.git`
 
 2. Navigate to the cloned directory using the command line.
 3. Run the server program by executing the following command:
